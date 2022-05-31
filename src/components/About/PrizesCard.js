@@ -8,17 +8,22 @@ function PrizesCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           
-            Apart from coding, some other activities that I love to do!
+            These are some of my working experiences <p></p> <p></p>
         
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> WEBMASTER at Jadavpur University IEEE JUSB - <b>June 2022 – PRESENT</b>   <p></p>
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writting Motivational/Tech/Sports Blogs
+              <ImPointRight /> Techical LEAD Coordinator at Jadavpur University E-CELL - July 2021 – PRESENT <p></p>
             </li>
             <li className="about-activity">
-              <ImPointRight /> Video Editing
+              <ImPointRight /> TEACHING ASSISSANT AT CODING NINJAS (DATA-STRUCTURES AND ALGORITHM) April 2022-Present <p></p>
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> BACKEND DEVELOPER +MARKETING INTERN AT FLUTTER - DECEMBER 2021 – MARCH 2022 <br />
+(Made a few changes in the matching algorithm and fixed a few bugs. Also developed creative content for marketing.)
+
             </li>
           </ul>
 

@@ -46,7 +46,7 @@ function About() {
         </h1>
         <Toolstack />
         <h1 className="project-heading">
-          <strong className="purple">Tools</strong> I use
+          <strong className="purple">My Job Experiences</strong>
         </h1>
         <Prizescard />
         <Github />
